@@ -21,16 +21,30 @@ export default function Home() {
                     react native select pro v2
                 </a>
                 <h2>Font loading in Next.js 13</h2>
-                <Link href="/old-font">Old Font</Link>
-                <Link href="/new-font">New Font</Link>
+                <Link href="/old-font" target="_blank">
+                    Old Font
+                </Link>
+                <Link href="/new-font" target="_blank">
+                    New Font
+                </Link>
                 <h2>Embed a video</h2>
-                <Link href="/yt-basic">Yt basic iframe</Link>
-                <Link href="/yt-lite">Yt lite</Link>
-                <Link href="/embed-video">Compare</Link>
+                <Link href="/yt-basic" target="_blank">
+                    Yt basic iframe
+                </Link>
+                <Link href="/yt-lite" target="_blank">
+                    Yt lite
+                </Link>
+                <Link href="/embed-video" target="_blank">
+                    Compare
+                </Link>
                 <h2>Animations</h2>
-                <Link href="/framer-motion">Animations (framer-motion)</Link>
+                <Link href="/framer-motion" target="_blank">
+                    Animations (framer-motion)
+                </Link>
                 <h2>Dialog HTML Element</h2>
-                <Link href="/modal">Dialog</Link>
+                <Link href="/modal" target="_blank">
+                    Dialog
+                </Link>
                 <h2>Others</h2>
                 <a href="https://react.email/" target="_blank">
                     react-email
