@@ -1,0 +1,13 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    max-width: 1000px;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 64px;
+}
+
+.column a {
+    display: block;
+}
